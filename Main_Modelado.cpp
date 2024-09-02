@@ -1,5 +1,6 @@
 //MONTES SUAREZ MANUEL ALEJANDRO
-
+//PRACTICA 3 "Modelado Geometrico"
+//30/Agosto/2024
 #include<iostream>
 
 //#define GLEW_STATIC
