@@ -1,4 +1,4 @@
-
+//MONTES SUÁREZ MANUEL ALEJANDRO PRACTICA 6 "TEXTURIZADO" FECHA DE ENTREGA 30/09/2024
 #include <iostream>
 #include <cmath>
 
